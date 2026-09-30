@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nomany Mustafa 👋</h1>
+<h1 align="center">Hi, I'm Noiemany Mostafa Mohamed 👋</h1>
 
 <p align="center">
   I build <b>automation and AI-agent tooling</b>, and the <b>ERP / CRM plumbing</b> that businesses run on.
