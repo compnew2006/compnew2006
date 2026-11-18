@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Nomani Mostafa
+# Hi there 👋 I'm Noiemany Moustafa
 
 ### AI Agent Builder | Browser Automation & MCP | Spec-Driven Development | Open Source Creator
 
