@@ -24,16 +24,13 @@ My focus is turning messy, real-world workflows into agents that are controllabl
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | What it does |
-| :--- | :--- |
-| **[browser-controller](https://github.com/compnew2006/browser-controller)** | MCP server + Chrome Extension that lets AI agents control your real browser with existing sessions and logins. Multi-client, tab-targeted, 22 tools. |
-| [**gowa-ui**](https://github.com/compnew2006/gowa-ui) <br> ![stars](https://img.shields.io/github/stars/compnew2006/gowa-ui?style=flat-square&logo=github) | Multi-tenant WhatsApp Business platform shipped as a single binary: campaigns with send pacing, business-hours auto-reply, device health alerts. | Go · Vue |
-| **[spec-kit-antigravity-skills](https://github.com/compnew2006/spec-kit-antigravity-skills)** | Agentic Skill System for Antigravity — turning Spec-Driven Development into autonomous AI capabilities for the entire SDLC. |
-| **[MetaAI-Free-Hermes-Agent](https://github.com/compnew2006/MetaAI-Free-Hermes-Agent)** | Run 【entity-Meta¦canonical_name=Meta】's Muse Spark LLM via Hermes Agent — for education and research. |
-| [**hermes-swarm**](https://github.com/compnew2006/hermes-swarm) <br> ![stars](https://img.shields.io/github/stars/compnew2006/hermes-swarm?style=flat-square&logo=github) | Delegate tasks from one Hermes Agent to another over Tailscale + SSH, as a standalone plugin with zero core modifications. | Python · MIT |
-
+| Project | Stars | What it does |
+| :--- | :---: | :--- |
+| **[browser-controller](https://github.com/compnew2006/browser-controller)** | [![GitHub stars](https://img.shields.io/github/stars/compnew2006/browser-controller?style=social)](https://github.com/compnew2006/browser-controller/stargazers) | MCP server + Chrome Extension that lets AI agents control your real browser with existing sessions and logins. Multi-client, tab-targeted, 22 tools. |
+| **[gowa-ui](https://github.com/compnew2006/gowa-ui)** | [![GitHub stars](https://img.shields.io/github/stars/compnew2006/gowa-ui?style=social)](https://github.com/compnew2006/gowa-ui/stargazers) | Multi-tenant WhatsApp Business platform shipped as a single binary: campaigns with send pacing, business-hours auto-reply, device health alerts. |
+| **[spec-kit-antigravity-skills](https://github.com/compnew2006/spec-kit-antigravity-skills)** | [![GitHub stars](https://img.shields.io/github/stars/compnew2006/spec-kit-antigravity-skills?style=social)](https://github.com/compnew2006/spec-kit-antigravity-skills/stargazers) | Agentic Skill System for Antigravity — turning Spec-Driven Development into autonomous AI capabilities for the entire SDLC. |
+| **[MetaAI-Free-Hermes-Agent](https://github.com/compnew2006/MetaAI-Free-Hermes-Agent)** | [![GitHub stars](https://img.shields.io/github/stars/compnew2006/MetaAI-Free-Hermes-Agent?style=social)](https://github.com/compnew2006/MetaAI-Free-Hermes-Agent/stargazers) | Run Meta's Muse Spark LLM via Hermes Agent — for education and research. |
+| **[hermes-swarm](https://github.com/compnew2006/hermes-swarm)** | [![GitHub stars](https://img.shields.io/github/stars/compnew2006/hermes-swarm?style=social)](https://github.com/compnew2006/hermes-swarm/stargazers) | Delegate tasks from one Hermes Agent to another over Tailscale + SSH, as a standalone plugin with zero core modifications. |
 ---
 **Also:** ERPNext / Frappe · MCP servers · WhatsApp & Telegram bots · Chrome extensions
 
