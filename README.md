@@ -1,33 +1,38 @@
-<h1 align="center">Hi, I'm Noiemany Mostafa Mohamed 👋</h1>
+# Hi there 👋 I'm Nomani Mostafa
 
-<p align="center">
-  I build <b>automation and AI-agent tooling</b>, and the <b>ERP / CRM plumbing</b> that businesses run on.
-</p>
+### AI Agent Builder | Browser Automation & MCP | Spec-Driven Development | Open Source Creator
 
-<p align="center">
-  <a href="mailto:noiemany@gmail.com"><img src="https://img.shields.io/badge/Email-noiemany%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/compnew2006?tab=repositories&type=source"><img src="https://img.shields.io/badge/Repos-source-181717?style=flat-square&logo=github" alt="Repositories" /></a>
-</p>
+I build tools that let AI agents actually *do* things in the real browser — with real sessions, real logins, and real tabs — not in a clean sandbox.
+
+My focus is turning messy, real-world workflows into agents that are controllable, debuggable, and safe to run on your own machine.
+
+📍 Based in Egypt
 
 ---
 
-### What I'm working on
+### 🛠️ Tech Stack & Arsenal
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**browser-controller**](https://github.com/compnew2006/browser-controller) <br> ![stars](https://img.shields.io/github/stars/compnew2006/browser-controller?style=flat-square&logo=github) | MCP server + Chrome extension that lets AI agents (Cursor, Claude Desktop, Windsurf…) drive the browser you *already* have open, with your real logins. Per-tab isolation, tab locking, several agents at once. | TypeScript · MIT |
-| [**Spec-Kit-Antigravity-Skills**](https://github.com/compnew2006/Spec-Kit-Antigravity-Skills) <br> ![stars](https://img.shields.io/github/stars/compnew2006/Spec-Kit-Antigravity-Skills?style=flat-square&logo=github) | Skills and workflows that let an AI pair programmer run the whole spec-driven development cycle. Adapted from `github/spec-kit`, also works with Claude Code. | Shell |
-| [**MetaAI-Free-Hermes-Agent**](https://github.com/compnew2006/MetaAI-Free-Hermes-Agent) <br> ![stars](https://img.shields.io/github/stars/compnew2006/MetaAI-Free-Hermes-Agent?style=flat-square&logo=github) | Self-hosted Go API exposing Meta AI as an OpenAI-compatible endpoint, with Telegram, WhatsApp and web chat front-ends. Docs in English and Arabic. Educational project. | Go · TypeScript · React |
-| [**hermes-swarm**](https://github.com/compnew2006/hermes-swarm) <br> ![stars](https://img.shields.io/github/stars/compnew2006/hermes-swarm?style=flat-square&logo=github) | Delegate tasks from one Hermes Agent to another over Tailscale + SSH, as a standalone plugin with zero core modifications. | Python · MIT |
-| [**gowa-ui**](https://github.com/compnew2006/gowa-ui) <br> ![stars](https://img.shields.io/github/stars/compnew2006/gowa-ui?style=flat-square&logo=github) | Multi-tenant WhatsApp Business platform shipped as a single binary: campaigns with send pacing, business-hours auto-reply, device health alerts. | Go · Vue |
-| [**parallel-stocktaking-system**](https://github.com/compnew2006/parallel-stocktaking-system) <br> ![stars](https://img.shields.io/github/stars/compnew2006/parallel-stocktaking-system?style=flat-square&logo=github) | Warehouse stocktaking app for SMACC ERP: scan and count against a read-only source company, then transfer reconciled counts to a target company. Arabic-first, RTL, 5-language UI. | Next.js · FastAPI · SQL Server |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### Tech I work with
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=go,ts,py,bash,nodejs,react,vue,flutter,html,css" alt="Go, TypeScript, Python, Bash, Node.js, React, Vue, Flutter, HTML, CSS" />
-</p>
+### 🚀 Featured Projects
 
+| Project | What it does |
+| :--- | :--- |
+| **[browser-controller](https://github.com/compnew2006/browser-controller)** | MCP server + Chrome Extension that lets AI agents control your real browser with existing sessions and logins. Multi-client, tab-targeted, 22 tools. |
+| **[spec-kit-antigravity-skills](https://github.com/compnew2006/spec-kit-antigravity-skills)** | Agentic Skill System for Antigravity — turning Spec-Driven Development into autonomous AI capabilities for the entire SDLC. |
+| **[MetaAI-Free-Hermes-Agent](https://github.com/compnew2006/MetaAI-Free-Hermes-Agent)** | Run 【entity-Meta¦canonical_name=Meta】's Muse Spark LLM via Hermes Agent — for education and research. |
+
+---
 **Also:** ERPNext / Frappe · MCP servers · WhatsApp & Telegram bots · Chrome extensions
 
 ### Focus areas
@@ -35,7 +40,27 @@
 - 🤖 **AI agents & MCP**: giving agents real tools (a real browser, remote delegation, spec-driven workflows)
 - 💬 **Messaging automation**: WhatsApp / Telegram platforms, campaigns and bots
 - 🏢 **ERP & CRM**: ERPNext / Frappe customisation and integrations
+---
 
-### Let's collaborate
+### 🔗 Connect With Me
 
-I'm open to collaborating on anything in automation, AI-agent tooling, or ERP/CRM. The easiest way to reach me is by [email](mailto:noiemany@gmail.com), or open an issue on any repo above.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noiemany)
+[![【entity-Facebook¦canonical_name=Facebook】](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/noiemany)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/noiemany)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@noiemany)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/noiemany)
+[![Meta AI](https://img.shields.io/badge/Meta_AI-0082FB?style=for-the-badge&logo=meta&logoColor=white)](https://www.meta.ai/@noiemany)
+
+---
+
+### 📊 GitHub Analytics
+
+![Noiemany's GitHub stats](https://github-readme-stats.vercel.app/api?username=compnew2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=compnew2006&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=compnew2006&theme=tokyonight&hide_border=true)
+
+![Profile views](https://komarev.com/ghpvc/?username=compnew2006&color=0e75b6&style=flat)
+
+---
+
+> 💡 *“Don't build another chatbot. Build an agent that can actually use the browser like you do.”*
