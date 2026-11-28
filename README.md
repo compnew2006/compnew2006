@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Noiemany Moustafa
+# Hi there 👋 I'm Noiemany Mostafa
 
 ### AI Agent Builder | Browser Automation & MCP | Spec-Driven Development | Open Source Creator
 
@@ -28,6 +28,7 @@ My focus is turning messy, real-world workflows into agents that are controllabl
 | :--- | :---: | :--- |
 | **[browser-controller](https://github.com/compnew2006/browser-controller)** | [![GitHub stars](https://img.shields.io/github/stars/compnew2006/browser-controller?style=social)](https://github.com/compnew2006/browser-controller/stargazers) | MCP server + Chrome Extension that lets AI agents control your real browser with existing sessions and logins. Multi-client, tab-targeted, 22 tools. |
 | **[gowa-ui](https://github.com/compnew2006/gowa-ui)** | [![GitHub stars](https://img.shields.io/github/stars/compnew2006/gowa-ui?style=social)](https://github.com/compnew2006/gowa-ui/stargazers) | Multi-tenant WhatsApp Business platform shipped as a single binary: campaigns with send pacing, business-hours auto-reply, device health alerts. |
+| **[Gowa-Lite](https://github.com/compnew2006/Gowa-Lite)** | [![GitHub stars](https://img.shields.io/github/stars/compnew2006/Gowa-Lite?style=social)](https://github.com/compnew2006/Gowa-Lite/stargazers) | Lightweight unified WhatsApp inbox — multiple devices, roles & permissions, post-close ratings. |
 | **[spec-kit-antigravity-skills](https://github.com/compnew2006/spec-kit-antigravity-skills)** | [![GitHub stars](https://img.shields.io/github/stars/compnew2006/spec-kit-antigravity-skills?style=social)](https://github.com/compnew2006/spec-kit-antigravity-skills/stargazers) | Agentic Skill System for Antigravity — turning Spec-Driven Development into autonomous AI capabilities for the entire SDLC. |
 | **[MetaAI-Free-Hermes-Agent](https://github.com/compnew2006/MetaAI-Free-Hermes-Agent)** | [![GitHub stars](https://img.shields.io/github/stars/compnew2006/MetaAI-Free-Hermes-Agent?style=social)](https://github.com/compnew2006/MetaAI-Free-Hermes-Agent/stargazers) | Run Meta's Muse Spark LLM via Hermes Agent — for education and research. |
 ---
